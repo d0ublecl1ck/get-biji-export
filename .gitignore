@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.pytest_cache/
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local env/secrets
+.env
+.env.*
+
+# Exports
+data/
+*.jsonl
+
+# Debug artifacts
+tmp/
+
+# Local scripts artifacts
+.DrissionPage/
+
+# macOS
+.DS_Store
